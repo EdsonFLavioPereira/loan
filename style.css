@@ -56,7 +56,7 @@ img {
 }
 
 .header-menu a:hover {
-  color: #b81469;
+  color: #ff0084;
   font-weight: bold;
 }
 
@@ -89,7 +89,6 @@ img {
     padding: 20px;
   }
   .header a {
-    background: #f25f90;
     border-radius: 4px;
   }
 }
@@ -101,7 +100,7 @@ img {
     padding: 20px;
   }
   .header a {
-    background: #f25f90;
+    background: #ffe0e9;
     border-radius: 4px;
   }
 }
@@ -196,7 +195,7 @@ img {
 }
 
 .experience .caption {
-  color: #ffa1bf;
+  color: #ffe0e9;
 }
 
 .experience-text {
@@ -204,7 +203,7 @@ img {
   line-height: 1.33;
   max-width: 40ch;
   margin-bottom: 3.75rem;
-  color: #ffa1bf;
+  color: #ffe0e9;
 }
 
 .experience-text strong {
@@ -216,7 +215,7 @@ img {
   grid-template-columns: 1fr 1fr;
   gap: 0.875rem 1.5rem;
   padding: 1.5rem;
-  background: #ffa1bf;
+  background: #ffe0e9;
   margin-bottom: 1.25rem;
   border-radius: 4px;
   position: relative;
