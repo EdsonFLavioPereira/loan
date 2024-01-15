@@ -82,14 +82,22 @@ img {
   transition: all 2s;
 }
 
-.perfil img {
-  border-color: #ff0084;
-}
-
 @media (max-width: 800px) {
   .header {
     flex-direction: column;
     gap: 40px;
+    padding: 20px;
+  }
+  .header a {
+    background: #f25f90;
+    border-radius: 4px;
+  }
+}
+
+@media (max-width: 600px) {
+  .header {
+    flex-direction: column;
+    gap: 10px;
     padding: 20px;
   }
   .header a {
